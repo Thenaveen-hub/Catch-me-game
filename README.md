@@ -12,6 +12,7 @@ Catch the Mole is a fun and challenging HTML, CSS, and JavaScript game where pla
   To play the game, players simply click on the moles with their mouse. When a mole is hit, it disappears and the player earns a point.
   Players can also see their score and the time remaining in the game at the top of the screen
 
+> ### Play this game -> https://thenaveen-hub.github.io/Catch-me-game
 
 ## 💻 Built with
 
